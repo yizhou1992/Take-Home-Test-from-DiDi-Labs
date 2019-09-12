@@ -68,7 +68,7 @@ public class Word_Anagram {
 			System.out.println(word_Anagram.getAllWords(line));
 			System.out.println("");
 		}
-		//scanner.close();
+		scanner.close();
 
 	}
 }
